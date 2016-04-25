@@ -1,0 +1,28 @@
+name: Photonix
+favicon: null
+layout_spectrum: 0.8401773143559694
+typography_spectrum: 0.3042598948813975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7684118626639247
+  lightness: 0.3735577871557325
+  saturation: 0.32538647507317364
+  rhythmicContrast: 0.6756443516351283
+purpose: []
